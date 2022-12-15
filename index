@@ -6,9 +6,10 @@ html lang="pt-br">
 </style>
 </head>
 <body>
-<header>
-<h1>invençoes do mundo</h1>
-</header>
+
+  <header>
+  <h1>invençoes do mundo</h1>
+  </header>
 
 <div>
 <p><p>
@@ -19,5 +20,5 @@ html lang="pt-br">
 
 
 <footer>
-<p> todos os direitos reservados</p>
+<p> todos os direitos reservados.2022</p>
 </footer>
